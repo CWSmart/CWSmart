@@ -20,7 +20,7 @@ I am a typical programmer who hates to do things twice 🤔. To that end I have 
 
 I follow a number of mentors on YouTube, Brad at Traversy Media being the main source of my inspiration and learning, but Kevin Powell for CSS, codeSTACKr, freeCodeCamp and others have all helped me in my quest to improve my skills.
 
-I have decided to Open Source most of my simple libraries, one at a time, to see if they are of use to any one else and to get help in updating my 1980’s coding style which still permeates through to my code today (I have only recently got used to long field names, older languages such as RPGII, limited you to 6-8 characters). 
+I have decided to Open Source most of my simple libraries, one at a time, to see if they are of use to anyone else and to get help in updating my 1980’s coding style which still permeates through to my code today (I have only recently got used to long field names, older languages such as RPGII, limited you to 6-8 characters). 
 
 Please watch this space as I release the code and PLEASE comment, help out and use freely.
 
