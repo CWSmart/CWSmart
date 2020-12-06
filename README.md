@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/CWSmart/CWSmart/cws.png "Header")](https://haredrive.co.za/)
+[![Header](https://raw.githubusercontent.com/CWSmart/CWSmart/main/cws.png "Header")](https://hardrive.co.za/)
 
 <!--
 **CWSmart/CWSmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
