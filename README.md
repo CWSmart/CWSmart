@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-I have been coding the world for over 40 years and the Web for over 27 years. I prefer to code by hand to avoid bloat (I cut my teeth on an IBM System/24 with 256Kb Ram and 256Mb hard drive - no room for duplicated code 😄).
+I have been coding the world for over 40 years and the Web for over 27 years. I prefer to code by hand to avoid bloat (I cut my teeth on an IBM System/34 with 256Kb Ram and 256Mb hard drive - no room for duplicated code 😄).
 
 As a keen home computer enthusiast in the 70's, using bulletin boards, I became a very early adopter of the Internet, and used the Mosaic Browser from its first release in 1993. My 9600 baud dial up home connection was one of the first in South Africa outside of academia and large business. The bug bit. By 1995 I was busy installing the Internet in the company that I worked for and looking to venture out on my own, into this exciting new realm. This happened in 1996, when I left the corporate world and opened one of the first internet cafes in my area.
 
